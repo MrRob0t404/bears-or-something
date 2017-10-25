@@ -1,0 +1,19 @@
+html {
+    font-size: 24px;
+    width: 40em;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+@media screen and (max-width: 961px) {
+    html{
+        width: 30em;
+    }
+}
